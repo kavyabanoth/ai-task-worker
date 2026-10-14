@@ -1,0 +1,4 @@
+[
+ "When clicks timeout on dynamic elements, verify visibility, scroll into view, or use alternative locators like role-based selectors before retrying.",
+ "Use robust locators like test IDs or roles instead of text when elements take time to render or are obscured."
+]

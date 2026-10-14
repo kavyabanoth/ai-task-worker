@@ -1,0 +1,20 @@
+[
+ {
+  "task": "enter_latest_companyx",
+  "passed": true,
+  "steps": 9,
+  "errors": 0
+ },
+ {
+  "task": "enter_acme",
+  "passed": true,
+  "steps": 8,
+  "errors": 0
+ },
+ {
+  "task": "mark_paid",
+  "passed": true,
+  "steps": 6,
+  "errors": 0
+ }
+]
