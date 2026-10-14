@@ -61,5 +61,13 @@ Three different tasks (enter from a PDF, enter a second vendor, mark as paid) ra
 - Narrow environment: one simulated app and PDF/text files. No desktop apps.
 - Small eval set (3 tasks, single run each).
 
+## 🎥 Project Demo
+
+Watch the 5-minute demonstration of my AI Task Worker,
+showing autonomous task execution, tool usage,
+independent verification, and failure recovery.
+
+▶️ [Watch the AI Task Worker Demo on Google Drive](https://drive.google.com/file/d/1f8rflQZORU9NSfjlC-pTF5lnKfqoINx-/view?usp=sharing)
+
 ## Next steps
 Larger task suite with repeated runs, per-step task-specific verification, a desktop/computer-use backend, and tuning the lesson injection.
